@@ -99,6 +99,11 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    private void openFragment(){
+
+
+    }
+
     private void initViews(){
         relativeLayout = (RelativeLayout) findViewById(R.id.activity_main);
 
